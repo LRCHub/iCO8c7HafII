@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Starrrrrrr",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-16T03:50:44.718071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starrrrrrr",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_Starrrrrrr_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starrrrrrr (album ver.)",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/02_Starrrrrrr_(album_ver.)_[Alexandros].txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starrrrrrr (Bedroom Version)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/03_Starrrrrrr_(Bedroom_Version)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starrrrrrr",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/04_Starrrrrrr_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "starrrrrrr",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/05_starrrrrrr_[Alexandros].txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starrrrrrr (Bedroom ver.)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/06_Starrrrrrr_(Bedroom_ver.)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "starrrrrrr feat. GEROCK",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/07_starrrrrrr_feat._GEROCK_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starrrrrrr",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_Starrrrrrr_[Alexandros].txt"
+    }
+  ]
+}
